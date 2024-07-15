@@ -4,4 +4,4 @@ git clone https://github.com/MINESH1234/create.git
 cd create
 
 # Run the Python script
-python create.py
+python create_2.py
